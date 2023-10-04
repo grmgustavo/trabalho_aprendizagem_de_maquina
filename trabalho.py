@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # Grave a saída no arquivo Resposta01.txt
 
 # Lendo o arquivo csv
-dados = pd.read_csv("/home/gus/Documents/trabalho aprendizagem de maquina/dados4.csv")
+dados = pd.read_csv("./dados4.csv")
 
 # Calculando a moda das idades
 moda_idade = dados["age"].mode().iloc[0]
