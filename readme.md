@@ -34,3 +34,6 @@ python seu_script.py
 ```
 
 O programa executará a análise de dados e visualização, e os resultados serão mostrados no terminal. Além disso, dois arquivos de imagem (`grafico_pizza.png` e `grafico_dispersao.png`) e um arquivo de texto (`Resposta01.txt`) serão gerados como saída.
+
+## Visualização do projeto no Colab
+[Colab](https://colab.research.google.com/drive/1CZtWWMFfRz2WRXGVFRt8S12vGd9nnFzL?usp=sharing)
